@@ -1,0 +1,145 @@
+{
+    "questionnaires": [
+        {
+            "name": "Begin survey",
+            "exclude_rounds": [ 1, 2, 3, 4, 5, 6, 7, 8 ],
+            "questions": [
+                {
+                    "question": "",
+                    "help": "Intro text",
+                    "b1": "Begin",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                }
+            ]
+        },
+        {
+            "name": "fitzpatrick",
+            "exclude_rounds": [ 1, 2, 3, 4, 5, 6, 7, 8 ],
+            "questions": [
+                {
+                    "question": "Pick the most accurate reaction of your skin to sun exposure:",
+                    "help": "Self-assess your skin tone",
+                    "b1": "I.\nHighly sensitive, always burns, never tans.",
+                    "b2": "II.\nVery sun sensitive, burns easily, tans minimally.",
+                    "b3": "III.\nSun sensitive skin, sometimes burns, slowly tans to light brown.",
+                    "b4": "IV.\nMinimally sun sensitive, burns minimally, always tans to moderate brown.",
+                    "b5": "V.\nSun insensitive skin, rarely burns, tans well.",
+                    "b6": "VI.\nSun insensitive, never burns, deeply pigmented.",
+                    "b7": ""
+                }
+            ]
+        },
+        {
+            "name": "features",
+            "exclude_rounds": [ 0 ],
+            "questions": [
+                {
+                    "question": "I felt that my virtual hands resembled my own (real) hands in terms of shape, skin tone, or other visual features",
+                    "help": "",
+                    "b1": "-3. \nStrongly disagree",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0. \nNeither agree nor disagree",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nStrongly agree"
+                }
+            ]
+        },
+        {
+            "name": "agency",
+            "exclude_rounds": [ 0 ],
+            "questions": [
+                {
+                    "question": "I felt that the movements of the virtual hands were caused by my own movements",
+                    "help": "",
+                    "b1": "-3. \nStrongly disagree",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0. \nNeither agree nor disagree",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nStrongly agree"
+                }
+            ]
+        },
+        {
+            "name": "mybody",
+            "exclude_rounds": [ 0 ],
+            "questions": [
+                {
+                    "question": "I felt that the virtual hands I saw were my own hands",
+                    "help": "",
+                    "b1": "-3. \nStrongly disagree",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0. \nNeither agree nor disagree",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nStrongly agree"
+                }
+            ]
+        },
+        {
+            "name": "humanness",
+            "exclude_rounds": [ 0 ],
+            "questions": [
+                {
+                    "question": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nInanimate",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nLiving"
+                },
+                {
+                    "question": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nSynthetic",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nReal"
+                },
+                {
+                    "question": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nMechanical movement",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nBiological movement"
+                },
+                {
+                    "question": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nHuman-made",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nHuman-like"
+                },
+                {
+                    "question": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nWithout definite lifespan",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nMortal"
+                }
+            ]
+        }
+    ]
+}

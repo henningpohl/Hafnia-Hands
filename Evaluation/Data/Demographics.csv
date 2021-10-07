@@ -1,0 +1,113 @@
+PID,Start,Device,DeviceID,Country,Age,Sex,VR Experience,Skin Tone
+9,2021-05-11 18:29:21,Oculus Quest,86ed4a4b28a39d39771b269f276eab6f,United States,25-29,Male,100+ hours,5
+10,2021-05-11 18:50:34,Oculus Quest,ae5f591837b80137a71ff0d56c94f6a0,Italy,30-35,Male,50-99 hours,3
+11,2021-05-11 23:24:43,Oculus Quest,2ed452bfc5ebad76f53b43f7b7d64ec9,United Kingdom,18-24,Male,100+ hours,3
+12,2021-05-12 04:12:57,Oculus Quest,b7b7303272f89ffe4dc030459cabc012,United States,40-49,Male,100+ hours,2
+13,2021-05-12 16:56:56,Oculus Quest,c248ff0e7381081e2c9760dbacabf7c6,Germany,40-49,Male,100+ hours,2
+14,2021-05-13 07:27:35,Oculus Quest,b52907d8f65350f7c73674d9584a7e21,India,30-35,Male,10-49 hours,4
+15,2021-05-13 07:55:04,Oculus Quest,c231a80f86f9af959f3373d0895cd64b,Germany,18-24,Male,50-99 hours,2
+16,2021-05-13 07:59:14,Oculus Quest,b1e34663da3839affa1de6668cef60ad,Chile,18-24,Male,100+ hours,3
+17,2021-05-13 08:16:39,Oculus Quest,d4ec5776958c1bc73b801ce7eb38e410,Denmark,18-24,Male,100+ hours,5
+18,2021-05-13 08:14:18,Oculus Quest,a8e5402521fe5ca469cc301e8a3872b7,United Kingdom,18-24,Male,10-49 hours,3
+19,2021-05-13 08:17:21,Oculus Quest,eba809fc0c6a73ebbcba364a5cf3e9bb,Poland,30-35,Male,50-99 hours,1
+20,2021-05-13 08:39:38,Oculus Quest,e808df2f76b5884389cea99542e2534c,United Kingdom,18-24,Male,10-49 hours,5
+21,2021-05-13 09:08:48,Oculus Quest,97b8ef461d8c41364866cb5a7192c2d5,Germany,30-35,Male,100+ hours,2
+22,2021-05-13 09:11:57,Oculus Quest,e1f4c19a7d7acecd6e4263a470cce309,France,35-39,Male,100+ hours,3
+23,2021-05-13 09:33:41,Oculus Quest,f2c9c41087e0cae04bdc3017ae2b7bfc,Denmark,18-24,Male,50-99 hours,1
+24,2021-05-13 09:55:23,Oculus Quest,11e67916d64f746b823aae2b1eba014e,Germany,40-49,Male,50-99 hours,4
+25,2021-05-13 10:06:39,Oculus Quest,76b33155c7f3422e7aaf565f45e6d884,Poland,18-24,Male,10-49 hours,2
+26,2021-05-13 10:14:57,Oculus Quest,6c5f1043ff6ecbf7463768b03c20f542,United Kingdom,50-59,Male,100+ hours,3
+27,2021-05-13 10:16:22,Oculus Quest,78d8e8f329889dd8563517c5ba6548a2,Finland,18-24,Male,50-99 hours,3
+28,2021-05-13 10:39:30,Oculus Quest,bb2bd4733d9467b7295009a348ad78c7,Ireland,18-24,Male,100+ hours,3
+29,2021-05-13 10:55:24,Oculus Quest,4b1193de18356863c748eb5729076118,Poland,25-29,Male,100+ hours,4
+30,2021-05-13 11:08:57,Oculus Quest,8f58c0f2fab0592f4e06e1634be39d6e,Netherlands,18-24,Male,100+ hours,4
+31,2021-05-13 11:34:45,Oculus Quest,643b14108259143fff8bf89bc25d79dc,United Kingdom,18-24,Male,50-99 hours,4
+32,2021-05-13 11:42:32,Oculus Quest,89d23f36b35fbd2d5dc1d263743d82fb,Poland,25-29,Male,50-99 hours,4
+33,2021-05-13 11:45:50,Oculus Quest,fd34bde90e53ce280b9b372ed0cd9c56,Greece,40-49,Male,100+ hours,4
+34,2021-05-13 11:55:38,Oculus Quest,49deab7e96289ff123f9a6500cec8ee0,United Kingdom,18-24,Male,100+ hours,6
+35,2021-05-13 11:59:27,Oculus Quest,47045d9c1f221dcc3a7849b60c9e4568,Turkey,18-24,Male,50-99 hours,2
+36,2021-05-13 12:06:28,Oculus Quest,e0597f3bfaee6c961afeae74f6c79372,France,18-24,Male,10-49 hours,3
+37,2021-05-13 12:08:16,Oculus Quest,0dfc04b4ddad615adda35e9de067701a,Canada,18-24,Male,10-49 hours,3
+38,2021-05-13 12:18:18,Oculus Quest,2f6a4b42fb1cd1787674bfc3e5c7afaf,Germany,18-24,Male,10-49 hours,4
+39,2021-05-13 12:32:06,Oculus Quest,519a4c89a1c55f606e881773671c6a8c,France,50-59,Male,10-49 hours,1
+40,2021-05-13 12:59:52,Oculus Quest,ac767ee308b7a68d0594b158dbbef820,Israel,18-24,Male,100+ hours,2
+41,2021-05-13 13:08:34,Oculus Quest,6041ccc95787448dac410f5652f74f9b,Spain,18-24,Male,50-99 hours,2
+42,2021-05-13 13:16:56,Oculus Quest,6547dbb09f2b76667a5bb508b84da0f0,Poland,30-35,Male,50-99 hours,4
+43,2021-05-13 13:31:49,Oculus Quest,620af42c7f0d2a2d76db23b6752d71c6,Spain,40-49,Male,100+ hours,2
+44,2021-05-13 14:09:29,Oculus Quest,ca2dc98f6175d4002c161ee222aa3a2f,Poland,18-24,Male,50-99 hours,2
+45,2021-05-13 14:09:43,Oculus Quest,65ad00109614b69a9c2bd97a17751c77,Georgia,18-24,Male,50-99 hours,2
+46,2021-05-13 14:28:08,Oculus Quest,8cc57f986deca2c47e40fb5c96791eb9,South Africa,50-59,Male,10-49 hours,5
+47,2021-05-13 14:38:33,Oculus Quest,cdf5cf07776639ae0fe70a545b3b5ef5,Poland,18-24,Male,100+ hours,3
+48,2021-05-13 14:50:06,Oculus Quest,8102a64d55f819b92e12e42e9fae0944,United States,18-24,Male,100+ hours,2
+49,2021-05-13 14:55:04,Oculus Quest,cdf5cf07776639ae0fe70a545b3b5ef5,Poland,18-24,Male,100+ hours,2
+50,2021-05-13 14:58:23,Oculus Quest,24ca6b59a722aaecf7acc1e72484ebf0,Spain,18-24,Male,100+ hours,3
+51,2021-05-13 15:15:29,Oculus Quest,909a4cd31f7a144cadfb8d20768e42d7,Canada,25-29,Male,10-49 hours,4
+52,2021-05-13 15:20:25,Oculus Quest,24ca6b59a722aaecf7acc1e72484ebf0,Spain,18-24,Female,100+ hours,3
+53,2021-05-13 15:25:24,Oculus Quest,7d8b144371e8c88d4d9d2c0c6d6d4c0e,France,40-49,Male,100+ hours,4
+54,2021-05-13 15:33:07,Oculus Quest,c970658295846436e7b13d2fec1b1932,United States,18-24,Male,50-99 hours,2
+55,2021-05-13 15:50:30,Oculus Quest,9aeb28910eb146cbf7a54046cf333abc,United States,25-29,Male,50-99 hours,3
+56,2021-05-13 15:47:53,Oculus Quest,dc4039eedf2ae4885557ca89e4c65fa8,France,30-35,Male,100+ hours,3
+57,2021-05-13 16:07:04,Oculus Quest,c99714c2f6282b034206fa32d0591b79,Mexico,25-29,Prefer not to say,100+ hours,4
+58,2021-05-13 16:07:44,Oculus Quest,7ad64369cb16826b54a55482043a0d9e,Germany,18-24,Male,100+ hours,2
+59,2021-05-13 16:09:23,Oculus Quest,2d9dc3fc6fe428f04c56fec60ccc1383,Italy,18-24,Male,50-99 hours,2
+60,2021-05-13 16:12:09,Oculus Quest,735cf8e63480bc2b06ffb68d08ac5165,Canada,35-39,Prefer not to say,100+ hours,2
+61,2021-05-13 16:11:33,Oculus Quest,1fdbbbfc2b848b4e6c77637363cbadfd,United Kingdom,40-49,Male,100+ hours,4
+62,2021-05-13 16:10:28,Oculus Quest,7d296ae286201bd0648b4585dfab09e4,United Kingdom,40-49,Male,100+ hours,3
+63,2021-05-13 16:34:50,Oculus Quest,4eee6b8eacfe88fef696b92e02959cd4,Slovenia,25-29,Male,10-49 hours,2
+64,2021-05-13 16:42:52,Oculus Quest,753dce9f900f26f79970e124e09a0caf,Germany,25-29,Male,100+ hours,3
+65,2021-05-13 16:42:18,Oculus Quest,184bb5537dc4d4e58ed7beb15dd65ad4,United States,18-24,Male,50-99 hours,4
+66,2021-05-13 16:57:52,Oculus Quest,113a11ba859e10add36accec60f45260,Brazil,18-24,Male,10-49 hours,3
+67,2021-05-13 17:23:30,Oculus Quest,3477e46fc8f660b33df1ce36e1390c79,Turkey,18-24,Male,50-99 hours,2
+68,2021-05-13 17:51:26,Oculus Quest,7c7c88c6b697d0517cecad2de7258df0,United Kingdom,35-39,Male,50-99 hours,4
+69,2021-05-13 17:56:50,Oculus Quest,e77574ad90cbea16dc3c38fe9531d3f0,United Kingdom,18-24,Male,100+ hours,6
+70,2021-05-13 18:05:42,Oculus Quest,fa0aec778002c86c2984da5442a78980,Belgium,35-39,Male,100+ hours,2
+71,2021-05-13 18:11:49,Oculus Quest,9670b6239c6b691c47d7cb1d06282571,Italy,30-35,Male,100+ hours,3
+72,2021-05-13 18:40:29,Oculus Quest,3cb40775e7183b323d8d77a2c3b90de0,United Kingdom,40-49,Female,5-9 hours,4
+73,2021-05-13 19:30:13,Oculus Quest,218d0200dd4014cbada82cf3c384448f,Latvia,25-29,Female,50-99 hours,1
+74,2021-05-13 19:41:26,Oculus Quest,2d84744d819f0753a8d3f083db17360b,Paraguay,30-35,Male,10-49 hours,3
+75,2021-05-13 19:50:24,Oculus Quest,affde6284018dbb2231603cb3b61daf8,United States,18-24,Male,100+ hours,3
+76,2021-05-13 19:59:45,Oculus Quest,06fe3c08d2a3c9356ae9b1f94cf3c434,Ireland,18-24,Male,100+ hours,2
+77,2021-05-13 20:11:42,Oculus Quest,901fcfff5329911a85803960a59147ea,United Kingdom,25-29,Male,10-49 hours,3
+78,2021-05-13 20:56:35,Oculus Quest,12d2c9c713ce676c755626deeb15e4cb,United States,30-35,Male,100+ hours,3
+79,2021-05-13 21:18:05,Oculus Quest,2b4fd0c3163f049de09d02299f9d2008,Poland,18-24,Male,100+ hours,4
+80,2021-05-13 21:26:21,Oculus Quest,a5abbcba6eec00e243cd9d41d907524d,United States,25-29,Male,100+ hours,3
+81,2021-05-13 21:48:02,Oculus Quest,c1b4cb022fb95935977a081496cc9524,Germany,18-24,Male,50-99 hours,2
+82,2021-05-13 22:04:09,Oculus Quest,e9ea7c338e2158966812c524afe17626,United States,50-59,Male,100+ hours,3
+83,2021-05-13 22:07:25,Oculus Quest,de3b9d343470adec7705b173665d03fe,Poland,25-29,Male,100+ hours,2
+84,2021-05-14 00:38:05,Oculus Quest,c6964e261141b93049bb45ea1b264fce,New Zealand,18-24,Male,100+ hours,5
+85,2021-05-14 01:08:10,Oculus Quest,14a1fb1e748b111b980be78501b1c5a5,United States,18-24,Male,100+ hours,4
+86,2021-05-14 01:38:57,Oculus Quest,a60c5909362de6f9c7e49cd34f2797aa,United States,18-24,Male,50-99 hours,3
+87,2021-05-14 01:37:05,Oculus Quest,37ea458f2fcc371b6bf463f92951df4a,United States,30-35,Male,50-99 hours,3
+88,2021-05-14 02:20:10,Oculus Quest,c40e2e2548438692505a7325805f00b8,United States,40-49,Female,50-99 hours,1
+89,2021-05-14 04:52:35,Oculus Quest,bda49fc5c7e31effbe5ba9e5a76852ac,Canada,30-35,Male,50-99 hours,5
+90,2021-05-14 05:32:41,Oculus Quest,e19ed157fc8f1d94cad70ffd9c31a79c,Malaysia,25-29,Female,50-99 hours,4
+91,2021-05-14 06:26:08,Oculus Quest,821a6860459868765d0ddd7bf3183173,United States,18-24,Male,10-49 hours,3
+92,2021-05-14 07:41:12,Oculus Quest,833e64f88ea31fdd312f98ef962f8eb2,Poland,25-29,Male,10-49 hours,2
+93,2021-05-14 08:13:21,Oculus Quest,c12738d581587af96cf0151d67d5d1ed,Italy,40-49,Male,100+ hours,2
+94,2021-05-14 08:21:23,Oculus Quest,6bd470661c700b6e62b09b633c21eb43,Denmark,18-24,Male,10-49 hours,2
+95,2021-05-14 09:11:48,Oculus Quest,f458c4f36abbb11fa0e3f92c6890e42a,Russia,18-24,Male,100+ hours,2
+96,2021-05-14 09:19:52,Oculus Quest,4b0d6cc5cbb4d8a76cdd8c07ec2872ef,Sweden,18-24,Male,100+ hours,3
+97,2021-05-14 09:26:27,Oculus Quest,f458c4f36abbb11fa0e3f92c6890e42a,Russia,18-24,Male,100+ hours,2
+98,2021-05-14 09:31:05,Oculus Quest,3bea706d53a75780c61f22801617aeef,Serbia,18-24,Male,100+ hours,3
+99,2021-05-14 09:29:51,Oculus Quest,af05f6fb9ec6af9120e40922e5a1514d,Poland,25-29,Male,10-49 hours,2
+100,2021-05-14 09:53:20,Oculus Quest,72e0bb3be376f1e6df12bd83ec14d994,Australia,18-24,Male,10-49 hours,3
+101,2021-05-14 13:00:49,Oculus Quest,7f45a09e41833edabd078ac3b263a29f,Germany,30-35,Male,100+ hours,6
+102,2021-05-14 14:18:45,Oculus Quest,51514c4bb4d183db1db4b55bd75deef0,Denmark,25-29,Male,10-49 hours,3
+103,2021-05-14 15:32:18,Oculus Quest,710d665edcb1e5998357f6fbb1811d46,Romania,18-24,Male,50-99 hours,2
+104,2021-05-14 15:50:44,Oculus Quest,978e947b7b39f6642a4501e5c53a8332,Italy,40-49,Male,50-99 hours,4
+105,2021-05-14 16:50:55,Oculus Quest,0e5f943dec28257b39c1660111297ed4,Italy,30-35,Male,50-99 hours,3
+106,2021-05-14 16:24:52,Oculus Quest,c95e1d8f01cfc02ce219aa075195c8e9,Serbia,18-24,Male,50-99 hours,2
+107,2021-05-14 17:19:41,Oculus Quest,3619a2c8246f1ecc67b4c16e2758b686,United States,30-35,Male,50-99 hours,4
+108,2021-05-14 18:21:48,Oculus Quest,c3c952009768bc7ce8853c07b3058109,United States,18-24,Male,5-9 hours,4
+109,2021-05-14 18:52:59,Oculus Quest,cf9e717cdd55e028b73bd3f6d116d825,Italy,18-24,Prefer not to say,100+ hours,4
+110,2021-05-14 19:21:57,Oculus Quest,70028061c89b1d5619feffe7773de665,Spain,40-49,Male,10-49 hours,3
+111,2021-05-14 19:57:22,Oculus Quest,95fd38e61680dfe37acff815d859bac1,Germany,30-35,Male,50-99 hours,5
+112,2021-05-14 20:01:52,Oculus Quest,9b971ee0e076dbaf05ab63df2405cc37,Poland,30-35,Male,100+ hours,2
+113,2021-05-14 20:09:05,Oculus Quest,ce3cb71041d8068bcd5e4b3c6049c2ae,Canada,25-29,Male,50-99 hours,3
+114,2021-05-14 20:34:27,Oculus Quest,c0666e9d1264b567ca9e22d81b5b4591,United States,25-29,Male,100+ hours,2
+115,2021-05-14 21:19:48,Oculus Quest,627c666d8df4104cd14f14afd39f8822,Greece,35-39,Male,50-99 hours,3
+116,2021-05-14 21:36:47,Oculus Quest,57d4a74bc1db1fe5d370fb82c3d92dd4,Germany,25-29,Male,50-99 hours,2
+117,2021-05-14 23:45:27,Oculus Quest,3955baa8b8fb345f7911c4df666b48f1,Canada,40-49,Female,10-49 hours,1
+118,2021-05-15 05:12:43,Oculus Quest,bd35e8174ffc97b226893b05d90ff69f,Germany,35-39,Male,50-99 hours,4
+119,2021-05-15 05:54:56,Oculus Quest,6c0736bee448defdd0561ce48afcd279,Chile,18-24,Male,10-49 hours,2
+120,2021-05-15 08:11:17,Oculus Quest,6fe4cba7615a7e18684fc58b98bd38a2,Italy,40-49,Male,100+ hours,2

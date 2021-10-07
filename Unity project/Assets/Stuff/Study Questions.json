@@ -1,0 +1,306 @@
+{
+    "questionnaires": [
+        {
+            "name": "welcome",
+            "exclude_rounds": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+            "questions": [
+                {
+                    "question": "Welcome",
+                    "help": "In this study you will only use your hands, so please put your controllers away.",
+                    "b1": "Next",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                },
+                {
+                    "question": "Welcome",
+                    "help": "You will follow moving boxes with your hands, with the hands changing. The study takes about 30 minutes.",
+                    "b1": "Next",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                },
+                {
+                    "question": "Welcome",
+                    "help": "Your participation is voluntary and you are free to stop at any time. We will ask you some information about yourself, including your skin tone.",
+                    "b1": "Next",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                },
+                {
+                    "question": "Welcome",
+                    "help": "We will also ask you to rate your experience of the hands. We also record your movement. No personal data is collected and everything is handled anonymously.",
+                    "b1": "Next",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                },
+                {
+                    "question": "Welcome",
+                    "help": "By clicking “I agree” on the next slide, you acknowledge that you have read this information, voluntarily participate in this study, and allow us to store and analyze your data from this study.",
+                    "b1": "Next",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                },
+                {
+                    "question": "Welcome",
+                    "help": "Do you consent to participate in the study?",
+                    "b1": "I agree",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                }
+            ]
+        },
+        {
+            "name": "introduction",
+            "exclude_rounds": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+            "questions": [
+                {
+                    "question": "Introduction",
+                    "help": "Your task is to follow moving boxes, keeping your hands inside them. The boxes turn red and we show a warning if you move outside. Please do this task standing up. Make sure you have space in front of you and use a roomscale guardian if possible.",
+                    "b1": "Next",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                },
+                {
+                    "question": "Introduction",
+                    "help": "When the first box appears, use the hand closest to it. Halfway through a trial, the first box fades out and a second one appears. Please switch hands at that point. You now have the chance to try the task.",
+                    "b1": "Start trial",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                }
+            ]
+        },
+        {
+            "name": "ready",
+            "exclude_rounds": [ 0, 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+            "questions": [
+                {
+                    "question": "Great!",
+                    "help": "Before we start, we have a few questions about you.",
+                    "b1": "Next",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                }
+            ]
+        },
+        {
+            "name": "fitzpatrick",
+            "exclude_rounds": [ 0, 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+            "questions": [
+                {
+                    "question": "Self-assess your skin tone",
+                    "help": "Pick the most accurate reaction of your skin to sun exposure:",
+                    "b1": "I.\nHighly sensitive, always burns, never tans.",
+                    "b2": "II.\nVery sun sensitive, burns easily, tans minimally.",
+                    "b3": "III.\nSun sensitive skin, sometimes burns, slowly tans to light brown.",
+                    "b4": "IV.\nMinimally sun sensitive, burns minimally, always tans to moderate brown.",
+                    "b5": "V.\nSun insensitive skin, rarely burns, tans well.",
+                    "b6": "VI.\nSun insensitive, never burns, deeply pigmented.",
+                    "b7": ""
+                }
+            ]
+        },
+        {
+            "name": "demographics",
+            "exclude_rounds": [ 0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 9, 10 ],
+            "questions": [
+                {
+                    "question": "How old are you?",
+                    "help": "Your age",
+                    "b1": "18-24",
+                    "b2": "25-29",
+                    "b3": "30-35",
+                    "b4": "35-39",
+                    "b5": "40-49",
+                    "b6": "50-59",
+                    "b7": "60-69"
+                },
+                {
+                    "question": "What is your sex?",
+                    "help": "Your sex",
+                    "b1": "Male",
+                    "b2": "Female",
+                    "b3": "Non-binary",
+                    "b4": "Prefer not to say",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                },
+                {
+                    "question": "Your VR Experience",
+                    "help": "How many hours have you used VR before?",
+                    "b1": "0-3",
+                    "b2": "5-9",
+                    "b3": "10-49",
+                    "b4": "50-99",
+                    "b5": "100+",
+                    "b6": "",
+                    "b7": ""
+                }
+            ]
+        },
+        {
+            "name": "start",
+            "exclude_rounds": [ 0, 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+            "questions": [
+                {
+                    "question": "Ready?",
+                    "help": "Great. Looks like you got the hang of it. You can now move on to the main study.",
+                    "b1": "Start study!",
+                    "b2": "",
+                    "b3": "",
+                    "b4": "",
+                    "b5": "",
+                    "b6": "",
+                    "b7": ""
+                }
+            ]
+        },
+        {
+            "name": "features",
+            "exclude_rounds": [ 0, 1 ],
+            "questions": [
+                {
+                    "help": "I felt that my virtual hands resembled my own (real) hands in terms of shape, skin tone, or other visual features",
+                    "question": "",
+                    "b1": "-3. \nStrongly disagree",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0. \nNeither agree nor disagree",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nStrongly agree"
+                }
+            ]
+        },
+        {
+            "name": "agency",
+            "exclude_rounds": [ 0, 1 ],
+            "questions": [
+                {
+                    "help": "I felt that the movements of the virtual hands were caused by my own movements",
+                    "question": "",
+                    "b1": "-3. \nStrongly disagree",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0. \nNeither agree nor disagree",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nStrongly agree"
+                }
+            ]
+        },
+        {
+            "name": "mybody",
+            "exclude_rounds": [ 0, 1 ],
+            "questions": [
+                {
+                    "help": "I felt that the virtual hands I saw were my own hands",
+                    "question": "",
+                    "b1": "-3. \nStrongly disagree",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0. \nNeither agree nor disagree",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nStrongly agree"
+                }
+            ]
+        },
+        {
+            "name": "humanness",
+            "exclude_rounds": [ 0, 1 ],
+            "questions": [
+                {
+                    "question": "From Inanimate to Living",
+                    "help": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nInanimate",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nLiving"
+                },
+                {
+                    "question": "From Synthetic to Real",
+                    "help": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nSynthetic",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nReal"
+                },
+                {
+                    "question": "From Mechanical movement to Biological movement",
+                    "help": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nMechanical movement",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nBiological movement"
+                },
+                {
+                    "question": "From Human-made to Human-like",
+                    "help": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nHuman-made",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nHuman-like"
+                },
+                {
+                    "question": "From Without definite lifespan to Mortal",
+                    "help": "Please rate the hands based on the opposing adjectives below",
+                    "b1": "-3. \nWithout definite lifespan",
+                    "b2": "-2.",
+                    "b3": "-1.",
+                    "b4": "0.",
+                    "b5": "1.",
+                    "b6": "2.",
+                    "b7": "3. \nMortal"
+                }
+            ]
+        }
+    ]
+}

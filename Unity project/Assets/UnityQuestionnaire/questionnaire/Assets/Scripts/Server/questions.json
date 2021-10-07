@@ -1,0 +1,171 @@
+{
+  "questionnaires": [
+    {
+      "name": "Begin survey",
+      "exclude_rounds": [],
+      "questions": [
+        {
+          "question": "",
+          "help": "Please read each statement and answer on a 1 to 7 scale indicating how much each statement applied to you during the experiment. There are no right or wrong answers. Please answer spontaneously and intuitively.",
+          "b1": "",
+          "b2": "",
+          "b3": "",
+          "b4": "Begin",
+          "b5": "",
+          "b6": "",
+          "b7": ""
+        }
+      ]
+    },
+    {
+      "name": "BODY OWNERSHIP",
+      "exclude_rounds": [],
+      "questions": [
+        {
+          "question": "It felt like the virtual body was my body.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        },
+        {
+          "question": "It felt like the virtual body parts were my body parts.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        },
+        {
+          "question": "The virtual body felt like a human body.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        },
+        {
+          "question": "It felt like the virtual body belonged to me.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        }
+      ]
+    },
+    {
+      "name": "AGENCY",
+      "exclude_rounds": [],
+      "questions": [
+        {
+          "question": "The movements of the virtual body felt like they were my movements.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        },
+        {
+          "question": "I felt like I was controlling the movements of the virtual body.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        },
+        {
+          "question": "I felt like I was causing the movements of the virtual body.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        },
+        {
+          "question": "The movements of the virtual body were in sync with my own movements.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        }
+      ]
+    },
+    {
+      "name": "CHANGE",
+      "exclude_rounds": [],
+      "questions": [
+        {
+          "question": "I felt like the form or appearance of my own body had changed.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        },
+        {
+          "question": "I felt like the weight of my own body had changed.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        },
+        {
+          "question": "I felt like the size (height) of my own body had changed.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        },
+        {
+          "question": "I felt like the width of my own body had changed.",
+          "help": "",
+          "b1": "1. \nStrongly disagree",
+          "b2": "2.",
+          "b3": "3.",
+          "b4": "4. \nNeither agree nor disagree",
+          "b5": "5.",
+          "b6": "6.",
+          "b7": "7. \nStrongly agree"
+        }
+      ]
+    }
+  ]
+}
