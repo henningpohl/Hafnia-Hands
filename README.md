@@ -14,18 +14,19 @@ https://osf.io/us39z/
 # Reference
 If you use our hand textures in your research, please cite us accordingly:
 
-Henning Pohl and Aske Mottelson, Hafnia Hands: A Multi-Skin Hand TextureResource for Virtual Reality Research, arXiv e-prints, 2021
-
+Pohl H. and Mottelson A. (2022) Hafnia Hands: A Multi-Skin Hand Texture Resource for Virtual Reality Research. Front. Virtual Real. 3:719506. doi: 10.3389/frvir.2022.719506
 
 ```bibtex
-misc{Pohl2021hafnia,
-      title={Hafnia Hands: A Multi-Skin Hand Texture Resource for Virtual Reality Research}, 
-      author={Henning Pohl and Aske Mottelson},
-      year={2021},
-      eprint={2110.03379},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC}
+@article{Pohl2022Hands,
+  title = {Hafnia Hands: A Multi-Skin Hand Texture Resource for Virtual Reality Research},
+  author = {Pohl, Henning and Mottelson, Aske},
+  journal = {Frontiers in Virtual Reality},
+  volume = {3},
+  year = {2022},
+  url = {https://www.frontiersin.org/article/10.3389/frvir.2022.719506},
+  doi = {10.3389/frvir.2022.719506},
+  issn = {2673-4192}
 }
 ```
 
-For now, a preprint is available at https://arxiv.org/abs/2110.03379.
+The full article is available at https://www.frontiersin.org/articles/10.3389/frvir.2022.719506/full.
